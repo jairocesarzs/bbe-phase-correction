@@ -8,8 +8,7 @@ Este projeto implementa um sistema de correção de fase e aprimoramento harmôn
 
 ## Visualização do Alinhamento de Fase
 
-![Diagrama de Alinhamento de Fase](<img width="1408" height="768" alt="Gemini_Generated_Image_6vb9y66vb9y66vb9" src="https://github.com/user-attachments/assets/2a0ad239-0a63-4b2d-9751-e425bc6d725b" />)
-
+![Diagrama de Alinhamento de Fase](https://i.imgur.com/xUhODOP.png)
 
 ## Como Funciona
 
