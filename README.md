@@ -9,7 +9,8 @@ Este projeto implementa um sistema de correção de fase e aprimoramento harmôn
 ## Visualização do Alinhamento de Fase
 
 
-![Diagrama de Alinhamento de Fase](https://i.imgur.com/4fXBxDG.png)
+![Diagrama de Alinhamento de Fase](https://github.com/user-attachments/assets/2a0ad239-0a63-4b2d-9751-e425bc6d725b)
+
 
 ## Como Funciona
 
