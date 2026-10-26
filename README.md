@@ -8,7 +8,7 @@ Este projeto implementa um sistema de correção de fase e aprimoramento harmôn
 
 ## Visualização do Alinhamento de Fase
 
-![Diagrama do alinhamento de formas de onda] (https://imgur.com/a/xUhODOP.png)
+![Diagrama do alinhamento de formas de onda] (<blockquote class="imgur-embed-pub" lang="en" data-id="a/xUhODOP" data-context="false" ><a href="//imgur.com/a/xUhODOP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 ## Como Funciona
 
