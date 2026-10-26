@@ -8,7 +8,7 @@ Este projeto implementa um sistema de correção de fase e aprimoramento harmôn
 
 ## Visualização do Alinhamento de Fase
 
-![Diagrama do alinhamento de formas de onda] https://share.gemini.google/GfwXXwYkTu7m
+![Diagrama do alinhamento de formas de onda] (https://share.gemini.google/GfwXXwYkTu7m)
 
 ## Como Funciona
 
